@@ -10,9 +10,11 @@ Statistical Analysis of High- Throughput Genomic and Transcriptomic Data  Herbst
 
 * I add pictures in the second part.
 
-I don't like eat ![avocado][avocado]
+I don't like eat avocado. 
+![avocado][avocado]
 
-But I have ![three avocado plants][avocado plant]
+But I have avocado plant. 
+![avocado plants][avocado plant]
 
 [avocado]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/440px-Persea_americana_fruit_2.JPG
 
