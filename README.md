@@ -4,15 +4,16 @@ Statistical Analysis of High- Throughput Genomic and Transcriptomic Data  Herbst
 
 ## This is the first exercise
 
-* I add a link in the first part
-[Here is the tutor of Markdown](https://www.markdowntutorial.com)
+* I add a link in the first part.
 
-* I add pictures in the second part
+[Here](https://www.markdowntutorial.com) is the tutor of Markdown.
 
-![I don't like eat avocado][avocado]
+* I add pictures in the second part.
 
-![But I have three avocado plants][avocado plant]
+I don't like eat ![avocado][avocado]
 
-[avocado]: https://images.app.goo.gl/Y7dXbrW9gijt2CLTA
+But I have ![three avocado plants][avocado plant]
 
-[avocado plant]: https://images.app.goo.gl/kLZx6Z3EKnvWJvaA9
+[avocado]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/440px-Persea_americana_fruit_2.JPG
+
+[avocado plant]: https://m.media-amazon.com/images/I/51VYj+J-ywL._AC_SL1000_.jpg
