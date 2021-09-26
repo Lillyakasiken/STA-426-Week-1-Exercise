@@ -1,0 +1,36 @@
+---
+title: "Exercise 1b"
+author: "Zhixuan Li"
+date: "9/26/2021"
+output: html_document
+---
+
+# Set seed
+
+In order to reproduce the following results.
+```{r}
+set.seed(1024)
+```
+
+
+# Log-normal distribution
+Samples 100 values from a log-normal distribution (say, mu=1, sigma=.25)
+```{r}
+log_norm_samples <- rlnorm(n = 100L, meanlog = 1, sdlog = 0.25)
+```
+
+
+# Histogram
+Create a histogram of the distribution and the distribution on the log scale
+```{r}
+histogram <- hist(log_norm_samples, breaks = 20, col = "lightcyan3")
+log_scale <- hist(log(log_norm_samples), breaks = 20, col = "lightblue3")
+```
+
+# Mean and variance
+Report the mean and variance of the sample
+```{r}
+mean(log_norm_samples)
+var(log_norm_samples)
+```
+The mean of the sample is 2.78661 and the variance is 0.4876358
