@@ -16,8 +16,8 @@ Statistical Analysis of High- Throughput Genomic and Transcriptomic Data  Herbst
   ![avocado][avocado]
 
 
-  But I have avocado plant. 
-  
+  But I have three avocado plants. 
+
  ![avocado plants][avocado plant]
 
 [avocado]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/440px-Persea_americana_fruit_2.JPG
