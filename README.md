@@ -2,19 +2,23 @@
 Statistical Analysis of High- Throughput Genomic and Transcriptomic Data  Herbstsemester 2021
 
 
-## This is the first exercise
+#### Week 1 exercise
 
 * I add a link in the first part.
 
-[Here](https://www.markdowntutorial.com) is the tutor of Markdown.
+  [Here](https://www.markdowntutorial.com) is the tutor of Markdown.
+
 
 * I add pictures in the second part.
 
-I don't like eat avocado. 
-![avocado][avocado]
+  I don't like eat avocados. 
 
-But I have avocado plant. 
-![avocado plants][avocado plant]
+  ![avocado][avocado]
+
+
+  But I have avocado plant. 
+  
+ ![avocado plants][avocado plant]
 
 [avocado]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/440px-Persea_americana_fruit_2.JPG
 
